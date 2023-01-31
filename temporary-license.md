@@ -17,4 +17,4 @@ Any entity seeking a legally binding license should contact me@maxstuff.net
 
 This document does NOT permit any entity to "USE" the software.
 
-Any modifications to the software are, irrevocably and perpetually, licensed with no conditions, other than that of liablity, to the original creator of the software. THIS DOES NOT GRANT THE MODIFIER ANY RIGHTS TO "USE" THE SOFTWARE.
+Any modifications to the software are, irrevocably and perpetually, licensed, with no conditions, to the original creator of the software. THIS DOES NOT GRANT THE MODIFIER ANY RIGHTS TO "USE" THE SOFTWARE.
